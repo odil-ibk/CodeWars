@@ -11,21 +11,6 @@ This repository contains my daily coding practice, algorithm challenges, and pro
 4. Build a strong programming foundation
 5. Track my growth as a developer
 
-📚 Repository Structure
-Codewars/
-│
-├── 8kyu/
-│   ├── kata-name.js
-│   └── kata-name.js
-│
-├── 7kyu/
-│   ├── kata-name.js
-│   └── kata-name.js
-│
-├── 6kyu/
-│   └── kata-name.js
-│
-└── README.md
 Solutions are organized by Kata difficulty level.
 
 🌱 Learning Journey
